@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "alffffiiieee",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "alffffiiieee": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "alffffiiieee",
+    "origin"
+  ]
+}
